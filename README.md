@@ -1,4 +1,4 @@
-# Python-Project-
+# IPL Data Analysis 2022
 Excel data handling using Pandas 
 This project focuses on analyzing IPL 2022 data using Python, Pandas, and Matplotlib.
 
